@@ -1,5 +1,5 @@
 {
-  "name": "@notebook-js/local-client",
+  "name": "@workbook-js/local-client",
   "version": "1.0.0",
   "publishConfig": {
     "access": "public"
@@ -67,5 +67,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "gitHead": "4ffb2deb9b82ced3cdde40e0f1558528807511d2"
 }

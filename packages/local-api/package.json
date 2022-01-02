@@ -1,5 +1,5 @@
 {
-  "name": "@notebook-js/local-api",
+  "name": "@workbook-js/local-api",
   "version": "1.0.0",
   "description": "",
   "publishConfig": {
@@ -23,9 +23,10 @@
     "typescript": "^4.5.4"
   },
   "dependencies": {
-    "@notebook-js/local-client": "^1.0.0",
+    "@workbook-js/local-client": "^1.0.0",
     "cors": "^2.8.5",
     "express": "^4.17.2",
     "http-proxy-middleware": "^2.0.1"
-  }
+  },
+  "gitHead": "4ffb2deb9b82ced3cdde40e0f1558528807511d2"
 }
