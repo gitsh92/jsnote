@@ -1,6 +1,6 @@
 {
   "name": "@workbook-js/local-api",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -23,7 +23,7 @@
     "typescript": "^4.5.4"
   },
   "dependencies": {
-    "@workbook-js/local-client": "^1.0.0",
+    "@workbook-js/local-client": "^2.0.0",
     "cors": "^2.8.5",
     "express": "^4.17.2",
     "http-proxy-middleware": "^2.0.1"

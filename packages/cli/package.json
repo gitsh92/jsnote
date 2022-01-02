@@ -1,6 +1,6 @@
 {
   "name": "workbook-js",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -17,11 +17,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@workbook-js/local-client": "^1.0.0"
+    "@workbook-js/local-client": "^2.0.0"
   },
   "devDependencies": {
     "@types/node": "^17.0.6",
-    "@workbook-js/local-api": "^1.0.0",
+    "@workbook-js/local-api": "^2.0.0",
     "commander": "^8.3.0",
     "esbuild": "^0.14.10",
     "typescript": "^4.5.4"
