@@ -1,5 +1,5 @@
 import { Command } from 'commander';
-import { serve } from '@workbook-js/local-api';
+import { serve } from '@gitsh92-jsnote/local-api';
 import path from 'path';
 
 const isProduction = process.env.NODE_ENV === 'production';

@@ -1,5 +1,5 @@
 {
-  "name": "@workbook-js/local-client",
+  "name": "@gitsh92-jsnote/local-client",
   "version": "2.0.0",
   "publishConfig": {
     "access": "public"
@@ -68,5 +68,5 @@
       "last 1 safari version"
     ]
   },
-  "gitHead": "4ffb2deb9b82ced3cdde40e0f1558528807511d2"
+  "gitHead": "a72fe5f165b71664a15fc92b2cf77d5da40508c8"
 }
